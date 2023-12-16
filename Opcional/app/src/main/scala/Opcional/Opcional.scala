@@ -1,0 +1,5 @@
+package Opcional
+
+class Opcional {
+
+}
