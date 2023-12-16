@@ -1,9 +1,8 @@
 /**
-  * Taller 4 - Programación Concurrente
-  * Autores: Carlos Alberto Camacho Castaño - 2160331
- *           Juan José Hernandez Arenas - 2259500
- *           Santiago Reyes Rodriguez - 2259738
- *           Carlos Alberto Camacho Castaño -2160331
+  * Opcional 2 - Programación Concurrente
+  * Autores:
+ *          Juan José Hernandez Arenas - 2259500
+ *
   * Profesor: Carlos A Delgado
   */
 package opcional
