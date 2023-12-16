@@ -48,5 +48,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'taller4.Taller4'
+    mainClass = 'opcional.Opcional'
 }
